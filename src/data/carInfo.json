@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "2021 FERRARI 488 PISTA SPIDER",
+      "img": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/b2a8acbd3bf944815a408de85e3bce9c07c1e5b3/src/Pick/image%2011.svg",
+     "specification": {"speed":"4000 Km/h",
+      "seat":"2 Seat", "source": "70 Liter"}
+    },
+    {
+      "id": 2,
+      "name": "2021 BUGATTI CHIRON",
+      "img": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/b2a8acbd3bf944815a408de85e3bce9c07c1e5b3/src/Pick/image%2012.svg",
+     "specification": {"speed":"8000 Km/h",
+      "seat":"1 Seat", "source": "80 Liter"}
+    },
+    {
+      "id": 3,
+      "name": "FERRARI LAFERRARI",
+      "img": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/b2a8acbd3bf944815a408de85e3bce9c07c1e5b3/src/Pick/image%207.svg",
+      "specification": {"speed":"1000 Km/h",
+      "seat":"2 Seat", "source": "90 Liter"}
+    },
+    {
+      "id": 4,
+      "name": "MCLAREN P1",
+      "img": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/b2a8acbd3bf944815a408de85e3bce9c07c1e5b3/src/Pick/image%2011.svg",
+      "specification":{"speed":"2000 Km/h",
+      "seat":"7 Seat", "source": "80 Liter"}
+    },
+    {
+      "id": 5,
+      "name": "PORSCHE 918 SPYDER",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/2017-Jaguar-F-TYPE-front_11458_032_1813x726_1AQ_cropped.png?raw=true",
+      "specification": {"speed":"1000 Km/h",
+      "seat":"2 Seat", "source": "90 Liter"}
+    },
+    {
+      "id": 6,
+      "name": "KOENIGSEGG JESKO",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/Black-Lamborghini-PNG-Transparent-Image.png?raw=true",
+      "specification": {"speed":"4000 Km/h",
+      "seat":"4 Seat", "source": "40 Liter"}
+    },
+    {
+      "id": 7,
+      "name": "PAGANI HUAYRA",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/Jaguar-F-Pace-SVR-PNG-Isolated-Photos.png?raw=true",
+      "specification": {"speed":"5000 Km/h",
+       "seat":"6 Seat", "source": "80 Liter"}
+    },
+    {
+      "id": 8,
+      "name": "ASTON MARTIN VALKYRIE",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/Lamborghini-Aventador-1536x864.png?raw=true",
+      "specification":{"speed":"4000 Km/h",
+      "seat":"2 Seat", "source": "10 Liter"}
+    },
+    {
+      "id": 9,
+      "name": "RIMAC NEVERA",
+      "img": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/b2a8acbd3bf944815a408de85e3bce9c07c1e5b3/src/Pick/image%2011.svg",
+      "specification": {"speed":"7000 Km/h",
+      "seat":"6 Seat", "source": "70 Liter"}
+    },
+    {
+      "id": 10,
+      "name": "MERCEDES-AMG ONE",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/2017-Jaguar-F-TYPE-front_11458_032_1813x726_1AQ_cropped.png?raw=true",
+      "specification": {"speed":"2000 Km/h",
+      "seat":"3 Seat", "source": "20 Liter"}
+    },
+    {
+      "id": 11,
+      "name": "MCLAREN P1",
+      "img": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Pick/Lamborghini-Aventador-1536x864.png?raw=true",
+      "specification": {"speed":"3000 Km/h",
+      "seat":"4 Seat", "source": "70 Liter"}
+    }
+  ]
+  

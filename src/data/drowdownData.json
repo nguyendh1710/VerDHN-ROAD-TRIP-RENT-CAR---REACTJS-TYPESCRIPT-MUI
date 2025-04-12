@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "label": "Choose a location",
+    "iconStart": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/location-dot-solid.svg",
+    "iconEnd": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/caret-down-solid.svg",
+    "options": ["Location 1", "Location 2", "Location 3"]
+  },
+  {
+    "id": 2,
+    "label": "Pick-up date",
+    "iconStart": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/clarity_date-solid%20(1).svg",
+    "iconEnd": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/caret-down-solid.svg",
+    "options": ["Date 1", "Date 2", "Date 3"]
+  },
+  {
+    "id": 3,
+    "label": "Return date",
+    "iconStart": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/clarity_date-solid%20(1).svg",
+    "iconEnd": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/caret-down-solid.svg",
+    "options": ["Return 1", "Return 2", "Return 3"]
+  },
+  {
+    "id": 4,
+    "label": "Type a car",
+    "iconStart": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/ph_car-fill.svg",
+    "iconEnd": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/8af87a0cc0986f3650ac8586d6b39ddcca6285b3/src/Brand/BrandInfo/caret-down-solid.svg",
+    "options": ["Car 1", "Car 2", "Car 3"]
+  }
+]
